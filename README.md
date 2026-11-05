@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**annaksilvaa/annaksilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou a Anna.
 
-Here are some ideas to get you started:
+Estudante de **Análise e Desenvolvimento de Sistemas**, interessada em tecnologia e gestão de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprofundando meus conhecimentos em programação, com foco no aprendizado de Python e no desenvolvimento de habilidades relacionadas a Banco de Dados.
+
+### Atualmente estudando
+- Python
+- Lógica de Programação
+- Algoritmos e Estrutura de Dados
+- Banco de Dados
+
+### Objetivos
+Expandir meus conhecimentos na área de tecnologia, desenvolver projetos práticos e direcionar minha carreira para a área de Banco de Dados.
+
+### Interesses
+- Banco de Dados
+- Análise e organização de dados
+- Tecnologia e inovação
