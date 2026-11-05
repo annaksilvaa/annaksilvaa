@@ -1,7 +1,7 @@
 
 # Olá! Eu sou a Anna.
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, interessada em tecnologia e gestão de dados.
+Estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em tecnologia e gestão de dados.
 
 Atualmente, estou aprofundando meus conhecimentos em programação, com foco no aprendizado de Python e no desenvolvimento de Banco de Dados.
 
